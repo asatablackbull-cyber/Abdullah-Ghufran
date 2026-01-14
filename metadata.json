@@ -1,0 +1,7 @@
+{
+  "name": "Calories AI",
+  "description": "Snap a photo of your meal and get instant macronutrient analysis powered by Gemini AI. Track calories, protein, carbs, and fats with ease.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
